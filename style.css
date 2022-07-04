@@ -1,3 +1,12 @@
 body {
-    font-size: 15pt;
+  background-color: peru
+}
+
+#p_1{
+  color:red;
+  background-color:blue; 
+  border:3px solid aquamarine;
+}
+#p1{
+  color: olive
 }
